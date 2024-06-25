@@ -1,1 +1,10 @@
-Aquí viene tu diario
+
+<><><> DIARIO JOSE HERNÁNDEZ DE LA TORRE <><><>
+
+# Dia 1: Aprendiendo git.
+
+- En que consiste git.
+- Instalar git en windows.
+- Instalar Vscode.
+- Recordando comandos de Bash.
+- Entrega reto 1.
