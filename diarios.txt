@@ -1,3 +1,5 @@
-1.- Creado diario
-2.- Actualizado diario Sarosi
-3.- Tu diario
+Índice de cambios.
+
+1.- Creado diario.
+2.- Actualizado diario Sarosi.
+3.- Añadido dia 1 del diario en la rama new-feature.
